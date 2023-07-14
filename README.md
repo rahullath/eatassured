@@ -1,6 +1,7 @@
 # EatAssured
 
-![EatAssured Logo](https://example.com/eatassured-logo.png)
+![image](https://github.com/rahullath/eatassured/assets/87206819/8aa4a6ba-27af-4eef-a1ea-1471e3fbfb3f)
+)
 
 EatAssured is a cutting-edge grocery expiration tracker that helps you stay on top of your food's freshness. With the power of barcode scanning and manual entry, EatAssured ensures that you never waste food again. Not only does it notify you when your groceries are about to expire, but it also provides you with options to consume the product or donate it to a charity of your choice, reducing food waste and making a positive impact on the community.
 
